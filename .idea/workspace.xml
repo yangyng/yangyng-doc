@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45564a80-b191-4d12-88b7-4424b7eec2da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_github_spullara_mustache_java_compiler_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_tdunning_t_digest_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_vividsolutions_jts_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_buffer_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_codec_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_common_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_handler_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_handler_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_resolver_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_transport_4_1_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_springfox_springfox_core_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_springfox_springfox_schema_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_springfox_springfox_spi_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__io_swagger_swagger_models_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_core_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_join_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_memory_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_misc_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_queries_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_5_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_5_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_client_transport_5_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_client_transport_5_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_elasticsearch_5_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_elasticsearch_5_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_jna_4_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_lang_mustache_client_5_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_lang_mustache_client_5_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_5_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_5_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_percolator_client_5_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_percolator_client_5_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_reindex_client_5_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_reindex_client_5_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_transport_netty4_client_5_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_plugin_transport_netty4_client_5_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_elasticsearch_securesm_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_locationtech_spatial4j_spatial4j_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_elasticsearch_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_elasticsearch_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_data_spring_data_elasticsearch_3_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_data_spring_data_elasticsearch_3_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_aop_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_beans_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_context_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_expression_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_test_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_tx_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_web_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_web_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/simple-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/annotation/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/annotation/Param.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/annotation/Validation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/config/OkHttpConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/config/WeChatConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/datasource/DataSourceConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/datasource/DataSourceKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/datasource/DynamicDataSourceContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/datasource/DynamicRoutingDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/enums/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/exception/BaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/handler/BaseExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/handler/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/handler/ValidateAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/model/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/model/PageInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/model/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/AESUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/OkHttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/PropertiesFileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/RequestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/StrUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/ValidateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/key/IdUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/key/SystemClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-common/src/main/java/com/yangy/common/utils/wechat/WeChatLoginUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-manage/simple-manage/src/main/java/com/yangy/manage/generator/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/enums/ExchangeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/enums/QueueEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/enums/RedisKeyEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/mq/MqSend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/redis/DividendListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/redis/RedisMessageListenerContainerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/redis/TopicMessageListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/service/MqSendService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/service/MqSendServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/test/Thread1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/java/com/example/demo/utils/MqUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/test/java/com/example/demo/ConsumerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/test/java/com/example/demo/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadDemo/src/test/java/com/example/demo/Tets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/src/main/java/com/example/demo/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/src/main/java/com/example/demo/redis/DividendListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/src/main/java/com/example/demo/redis/RedisMessageListenerContainerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/src/main/java/com/example/demo/redis/TopicMessageListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo2/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/RedisKeyEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/controller/DividendController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/entity/Dividend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/entity/ExcelEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/entity/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/entity/StoreStaff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/entity/UserStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/enums/RedisKeyEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/mapper/DividendMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/redis/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/redis/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/redis/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/service/DividendListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/service/DividendService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/service/RedisMessageListenerContainerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/service/TopicMessageListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/service/impl/DividendServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/ByteUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/DateConvertHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/ExcelUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/FastJsonRedisSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/ObjectUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/Pinyin4jUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/PoiUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/PramTypeJudgeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/SqlUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/utils/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/mapper/DividendMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/test/java/StudentServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/test/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo/mq/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo/mq/HelloReceiver1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo/mq/HelloSender1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/dataSources/0def1c68-21a8-42e0-92ca-6ce0c79ffbec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/dataSources/0def1c68-21a8-42e0-92ca-6ce0c79ffbec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/annotation/AnnotationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/annotation/ParamValidateAdvisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/annotation/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/annotation/Validation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/base/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/base/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/database/DataSourceEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/database/DynamicDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/entity/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/entity/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/entity/RoleMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/entity/UserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/enums/ResultCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/enums/ResultCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/enums/WeChatEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/enums/WeChatEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/generator/MpGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/generator/MybatisPlusGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/handler/BaseExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/handler/BaseExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/model/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/model/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/model/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/model/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/AESUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/AESUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/HttpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/HttpUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/PropertiesFileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/PropertiesFileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/key/IdUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/key/IdUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/key/SystemClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/key/SystemClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/java/com/yangy/common/utils/login/WeChatLoginUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/common/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/eureka/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/java/com/yangy/generator/GeneratorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/java/com/yangy/generator/GeneratorApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/java/com/yangy/generator/config/GenerateConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/java/com/yangy/generator/config/GenerateConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/java/com/yangy/generator/model/ShowModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/java/com/yangy/generator/utils/CodeGenerateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/java/com/yangy/generator/utils/CodeGenerateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/java/com/yangy/generator/utils/FreeMarkerTemplateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/java/com/yangy/generator/utils/FreeMarkerTemplateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/generateModel.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/api.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/api.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/controller.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/controller.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/entity.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/entity.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/hystrix.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/hystrix.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/mapper.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/mapper.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/mybatis.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/mybatis.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/service.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/service.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/serviceImpl.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../project/generator/src/main/resources/templates/serviceImpl.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/manage/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/ManageApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/ManageApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/controller/LogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/controller/MenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/controller/RoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/controller/RoleMenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/controller/UserRoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/dao/LogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/dao/MenuMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/dao/RoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/dao/RoleMenuMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/dao/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/dao/UserRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/MenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/RoleMenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/UserRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/impl/LogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/impl/MenuServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/impl/RoleMenuServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/impl/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/impl/UserRoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/java/com/yangy/manage/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/resources/mybatis/LogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/resources/mybatis/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/resources/mybatis/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/resources/mybatis/RoleMenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/resources/mybatis/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/resources/mybatis/UserRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/main/resources/templates/test.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/manage/src/test/java/com/yangy/manage/ManageApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/rocketmq/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/rocketmq/src/main/java/com/yangy/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/rocketmq/src/main/java/com/yangy/consumer/TestConsumerRocketMQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/rocketmq/src/main/java/com/yangy/producer/TestProducerRocketMQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/rocketmq/src/test/java/com/yangy/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/rocketmq/target/classes/com/yangy/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/rocketmq/target/test-classes/com/yangy/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/UserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/UserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/user/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/user/dao/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/user/model/RocketMQConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/user/model/RocketMQProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/user/service/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/user/service/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/user/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/main/java/com/yangy/user/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/test/java/com/yangy/user/UserApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/user/src/test/java/com/yangy/user/service/impl/UserServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/alipay/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/alipay/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/alipay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/alipay/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/alipay/src/main/java/com/yangy/alipay/AlipayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/alipay/src/main/java/com/yangy/alipay/AlipayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/alipay/src/test/java/com/yangy/alipay/AlipayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/alipay/src/test/java/com/yangy/alipay/AlipayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/java/com/yangy/codetool/CodeToolApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/java/com/yangy/codetool/CodeToolApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/java/com/yangy/codetool/model/ColumnClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/java/com/yangy/codetool/model/ColumnClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/java/com/yangy/codetool/model/TableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/java/com/yangy/codetool/model/TableClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/java/com/yangy/codetool/utils/CodeGenerateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/java/com/yangy/codetool/utils/CodeGenerateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/java/com/yangy/codetool/utils/RedisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/generateModel.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/generateModel.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/api.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/api.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/controller.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/controller.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/entity.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/entity.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/hystrix.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/hystrix.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/mapper.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/mapper.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/mybatis.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/mybatis.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/service.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/service.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/serviceImpl.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/main/resources/templates/serviceImpl.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/code-tool/src/test/java/com/yangy/codetool/CodeToolApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/code-tool/src/test/java/com/yangy/codetool/CodeToolApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/doc/.idea/doc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/doc/.idea/doc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/doc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/doc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/doc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/doc/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/doc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/doc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/doc/doc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/doc/doc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/doc/html/rabbitmq.html" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/doc/html/rabbitmq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/doc/markdown/rabbitmq.md" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/doc/markdown/rabbitmq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/RabbitmqApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/RabbitmqApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/config/MQConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/controller/MQTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/controller/MQTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/redis/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/redis/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/redis/DividendListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/redis/DividendListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/redis/RedisMessageListenerContainerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/redis/RedisMessageListenerContainerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/redis/TopicMessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/redis/TopicMessageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/service/RabbitMQService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/service/RabbitMQService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/service/RedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/service/RedisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/service/impl/RabbitMQServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/service/impl/RabbitMQServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/service/impl/RedisServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/java/com/yangy/rabbitmq/service/impl/RedisServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/resources/rabbitmq.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/main/resources/rabbitmq.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/test/java/com/yangy/rabbitmq/RabbitmqApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/rabbitmq/src/test/java/com/yangy/rabbitmq/service/impl/RabbitMQServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/RedisQueueApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/RedisQueueApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/service/impl/RedisServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/service/impl/RedisServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/utils/Consmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/utils/Consmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/utils/DividendListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/utils/DividendListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/utils/RedisMessageListenerContainerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/utils/TopicMessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/java/com/yangy/redis/utils/TopicMessageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/test/java/com/yangy/redisqueue/RedisQueueApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/redis-queue/src/test/java/com/yangy/redisqueue/RedisQueueApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-login/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-login/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-login/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-login/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-login/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-login/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-login/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-login/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-login/src/main/java/com/yangy/thirdLogin/ThirdLoginApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-login/src/main/java/com/yangy/thirdLogin/ThirdLoginApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-login/src/main/resources/wechat.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-login/src/main/resources/wechat.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-login/src/test/java/com/yangy/thirdLogin/ThirdLoginApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-login/src/test/java/com/yangy/thirdLogin/ThirdLoginApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/ThirdPayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/ThirdPayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/controller/AlipayController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/controller/TenpayController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/entity/Pay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/entity/Pay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/enums/PayWayEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/enums/ali/AliBizStatusEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/model/AliPayPublicRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/DateUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/PayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/PayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/ReflectUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/alipay/AlipayConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/alipay/AlipayManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/alipay/AlipayManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/alipay/AlipayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/alipay/AlipayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/tenpay/HttpsClientUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/tenpay/MD5Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/tenpay/MyX509TrustManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/tenpay/Sha1Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/tenpay/SignUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/tenpay/TenpayConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/tenpay/TenpayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/java/com/yangy/pay/utils/tenpay/XMLUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/resources/alipay.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/resources/alipay.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/resources/tenpay.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/src/main/resources/tenpay.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/third-pay/src/test/java/com/yangy/pay/ThirdPayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/third-pay/src/test/java/com/yangy/pay/ThirdPayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/wxlogin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/wxlogin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/wxlogin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/wxlogin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/wxlogin/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/wxlogin/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/wxlogin/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/wxlogin/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/wxlogin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/wxlogin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/wxlogin/src/main/java/com/yangy/wxlogin/WxloginApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/wxlogin/src/main/java/com/yangy/wxlogin/WxloginApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/wxlogin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/wxlogin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/wxlogin/src/test/java/com/yangy/thirdlogin/ThirdLoginApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/wxlogin/src/test/java/com/yangy/thirdlogin/ThirdLoginApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yangy/tool/wxlogin/src/test/java/com/yangy/wxlogin/WxloginApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yangy/tool/wxlogin/src/test/java/com/yangy/wxlogin/WxloginApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="192545721">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tool/maven/apache-maven-3.5.3/bin" />
+        <option name="userSettingsFile" value="D:\tool\maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45564a80-b191-4d12-88b7-4424b7eec2da" name="Default Changelist" comment="" />
+      <created>1538964819128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538964819128</updated>
+      <workItem from="1538964820808" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966262" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

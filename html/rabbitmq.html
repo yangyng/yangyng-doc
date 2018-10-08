@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>rabbitmq</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2>rabbit mq windows 安装 注意事项</h2>
+<h3>erlang 安装</h3>
+<p><strong>下载地址</strong> </p>
+<p><a href="http://www.erlang.org/downloads" title="erlang 下载路径">http://www.erlang.org/downloads</a></p>
+<p><strong>环境变量配置</strong> <code>ERLANG_HOME 安装路径</code></p>
+<p><strong>注意事项</strong>
+安装erlang 时注意 一致</p>
+<pre><code>C:\Windows\System32\config\systemprofile\.erlang.cookie
+
+C:\Users\用户名\.erlang.cookie
+</code></pre>
+
+<hr />
+<h3>rabbit mq 安装</h3>
+<p><strong>下载地址</strong></p>
+<p><a href="https://github.com/rabbitmq/rabbitmq-server/releases/tag/v3.7.5" title="rabbit mq下载路径">https://github.com/rabbitmq/rabbitmq-server/releases/tag/v3.7.5</a></p>
+<p>出现失败时 </p>
+<pre><code>rabbit-service start 启动服务
+rabbit-service stop 关闭服务
+rabbit-service remove 移除服务
+rabbitmq-plugins enable rabbitmq_management 安装页面管理工具
+</code></pre>
+
+<hr />
+<h3>rabbit mq 使用</h3>
+<pre><code>//获取连接
+ConnectionFactory connectionFactory = new ConnectionFactory();
+//地址
+connectionFactory.setHost(&quot;127.0.0.1&quot;);
+//端口号
+connectionFactory.setPort(5672);
+//用户名
+connectionFactory.setUserName(&quot;guest&quot;);
+//密码
+connectionFactory.setPassword(&quot;guest&quot;);
+//获取连接
+Connection connection = connectionFactory.getConnection();
+//获取通道
+Channel channel = connection.getChannel();
+//test 队列名称
+channel.queueDeclare(&quot;test&quot;,false,false,false,null);
+//消息
+String message = &quot;this is a test message&quot;;
+//发送消息
+channel.basicPublish(&quot;&quot;,&quot;test&quot;,null,message.getBytes());
+//关闭频道 关闭连接
+channel.close();
+connection.close();
+</code></pre>
+
+<hr />
+<h3>基本知识简介</h3>
+<ol>
+<li>ConnectionFactory 用来获取连接</li>
+<li>connection rabbitMq的socket连接,丰庄路socket协议相关部分逻辑</li>
+<li>channel用来定义Queue(队列)定义Exchange(交换机)绑定Queue与Exchange 发布消息等操作</li>
+</ol>
+<h3>queue</h3>
+<p>rabbitMq的内部对象 用来存储消息</p>
+<h4>Message acknowledgment</h4>
+<p>消息确认机制</p>
+<pre><code>mq在收到消息回执时将消息从queue中移除,如果没有收到回执,并检测到消费者的rabbitmq连接断开,会将消息发送给其它消费者(如果存在多个消费者)处理
+</code></pre>
+
+<p>开发过程注意</p>
+<pre><code>处理完业务逻辑后,没有发送回执给RabbitMQ,会导致Queue中的消息越来越多,消费者重启后出现消息的重复消费问题
+</code></pre>
+
+<p>消息的持久化以及消息的事务性</p>
+<h4>Prefetch count</h4>
+<p>可以设置该参数控制发给每个消费者的消息数.<img src="http://ostest.qiniudn.com/wordpress/wp-content/uploads/2014/02/2014-2-21-9-49-08.png" alt="Prefetch count" />比如我们设置prefetchCount=1，则Queue每次给每个消费者发送一条消息；消费者处理完这条消息后Queue会再给该消费者发送一条消息。</p>
+<h4>声明Queue</h4>
+<ul>
+<li>消费者无法订阅或者获取不存在的Queue中的信息</li>
+<li>
+<p>消息被Exchange接受之后,如果没有匹配的Queue,会被丢弃</p>
+<p>无论是消费者还是生产者,在使用时,即发送或者接受消息是,去尝试建立消息队列,因为加入客户端去尝试创建一个已经存在的消息队列时,是不会做任何操作,并返回成功.</p>
+<p>一个消费者在一个信道中正在监听一个队列的消息时,不允许该消费者在同一个channel中声明其它队列</p>
+</li>
+</ul>
+<p>声明方式 queue.declare</p>
+<ul>
+<li>
+<p><strong>Exclusive 排他队列</strong></p>
+<p>该队列仅对首次声明它的连接可见,并在连接断开时自动删除.</p>
+<p>1.排他队列是基于连接可见的,同一连接的不同信道可以同时访问同一个连接创建的排他队列</p>
+<p>2.一个连接已经声明了一个排他队列,其它连接不允许建立同名的排他队列.</p>
+<p>3.即使设置该队列是持久化的,一旦连接关闭或者客户端退出,该排他队列都会被自动删除.</p>
+</li>
+<li>
+<p><strong>Auto-delete 自动删除</strong> 适用于临时队列</p>
+</li>
+<li>
+<p><strong>durable持久化</strong> 在连接断开或者客户端重启后仍会存活</p>
+</li>
+</ul>
+<p><strong>总结</strong> </p>
+<pre><code>存活周期仅限于当前连接
+自动删除的特性
+仅能创建一次
+</code></pre>
+
+<hr />
+<h4>路由规则</h4>
+<ul>
+<li><strong>direct 路由规则完全相同 <em>exp:</em> ==</strong></li>
+<li><strong>topic 模糊匹配路由规则 <em>exp:</em> like</strong></li>
+<li><strong>fanout 发布与订阅方式</strong></li>
+</ul>
+<h4>消费者订阅消息</h4>
+<ul>
+<li>
+<p><strong>basic.consume</strong></p>
+<p>订阅某队列中的消息后,channel自动在处理完上一条消息后,接受下一条消息.(同一个channel中消息处理是并行的)除非关闭channel或者取消订阅,否则客户端将会一直接收队列的消息.</p>
+</li>
+<li>
+<p><strong>basic.get</strong></p>
+<p>主动获取队列中的消息,但是不可以通过循环调用basic.get来代替basic.consume,basic,get在实际执行的时候,首先consume某一队列,然后检索第一条消息,然后在取消订阅,在高吞吐量的消费者,最好使用第一种方式</p>
+</li>
+</ul>
+<p>多个消费者同时订阅同一个队列,RabbitMQ是采用循环的方式分发消息的,每一条消息只能被一个订阅者接收.消费者在接到消息时,需要给服务器发送一套确认命令,可以在HandelDelivery中调用basic.ack实现,也可以在consume某个队列时,设置autoACK属性为true.如果消费者在接到消息以后还没来得及返回ACK就断开了连接,消息服务器会重传该消息给下一个订阅者,没有订阅者就会存储该消息.</p>
+<hr />
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
