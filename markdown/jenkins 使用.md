@@ -8,6 +8,9 @@
 
     <arguments>-Xrs -Xmx256m -Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle -jar "%BASE%\jenkins.war" --httpPort=8080 --webroot="%BASE%\war"</arguments>
 
+## Jenkins maven 项目配置 ##
+新建任务->构建一个maven项目
+general->GitHub project 
 
 
 
