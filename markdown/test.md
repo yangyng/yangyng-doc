@@ -1,10 +1,11 @@
 
 ####表名: op_article####
 ---
+
 列名|类型|大小|默认值|注释|非空
 --|--|--|--|--|--|--|
-id|BIGINT|20||id|true
-title|VARCHAR|32||资讯名称|true
+id|BIGINT|20|null|id|true
+title|VARCHAR|32|null|资讯名称|true
 type|INT|4||文章类型|
 volume|INT|11||第几期|
 description|VARCHAR|1024||说明（摘要）|
