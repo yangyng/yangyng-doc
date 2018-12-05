@@ -6,30 +6,30 @@
 --|--|--|--|--|--|--|
 id|BIGINT|20|null|id|true
 title|VARCHAR|32|null|资讯名称|true
-type|INT|4||文章类型|
-volume|INT|11||第几期|
-description|VARCHAR|1024||说明（摘要）|
-image_head|VARCHAR|128||首图|
-image_banner|VARCHAR|4096||轮播图|
-share_banner|VARCHAR|255||分享  banner|
-url|VARCHAR|1024||页面路径|
-show_path|INT|4||展示路径   100  All    101 C    102 B|
-sex|INT|3|102|推送性别 100：女 101：男 102：不限|
-audit_reason|VARCHAR|256||审核结果|
-audit_time|BIGINT|13||审核时间|
-audit_by|BIGINT|20||审核者ID|
-audit_status|INT|3|100|审核状态 100：待审核 101：通过 102：驳回|
-read_volume|BIGINT|13||阅读量|
-start_age|INT|4||最小年龄|
-end_age|INT|4||最大年龄|
-create_by|BIGINT|20||创建者id|
-status|INT|4|100|100 停用 101启用|
-create_time|BIGINT|13||创建时间|
-update_by|BIGINT|20||修改者id|
-update_time|BIGINT|13||修改时间|
-del_flag|INT|4|101|100:已删除 101：正常|
-share_title|VARCHAR|100||海报标题|
-share_sub_title|VARCHAR|100||海报副标题|
+type|INT|4|null|文章类型|null
+volume|INT|11|null|第几期|null
+description|VARCHAR|1024|null|说明（摘要）|null
+image_head|VARCHAR|128|null|首图|null
+image_banner|VARCHAR|4096|null|轮播图|null
+share_banner|VARCHAR|255|null|分享  banner|null
+url|VARCHAR|1024|null|页面路径|null
+show_path|INT|4|null|展示路径   100  All    101 C    102 B|null
+sex|INT|3|102|推送性别 100：女 101：男 102：不限|null
+audit_reason|VARCHAR|256|null|审核结果|null
+audit_time|BIGINT|13|null|审核时间|null
+audit_by|BIGINT|20|null|审核者ID|null
+audit_status|INT|3|100|审核状态 100：待审核 101：通过 102：驳回|null
+read_volume|BIGINT|13|null|阅读量|null
+start_age|INT|4|null|最小年龄|null
+end_age|INT|4|null|最大年龄|null
+create_by|BIGINT|20|null|创建者id|null
+status|INT|4|100|100 停用 101启用|null
+create_time|BIGINT|13|null|创建时间|null
+update_by|BIGINT|20|null|修改者id|null
+update_time|BIGINT|13|null|修改时间|null
+del_flag|INT|4|101|100:已删除 101：正常|null
+share_title|VARCHAR|100|null|海报标题|null
+share_sub_title|VARCHAR|100|null|海报副标题|null
 
 ---
 索引名|索引类型|列名
