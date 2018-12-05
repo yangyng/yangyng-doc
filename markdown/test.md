@@ -1,5 +1,5 @@
 列名|类型|大小|默认值|注释|非空
---|--|--|--|--|--|--|
+--|--|--|--|--|--|--
 id|BIGINT|20|null|id|true
 title|VARCHAR|32|null|资讯名称|true
 type|INT|4|null|文章类型|null
